@@ -3,12 +3,12 @@ The game is played on a hexagonal board instead of a square board. Two players a
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <div style="margin-right: 10px;">
-    <img src="https://zwanah.github.io/images/project0_1.png" width="300" />
+    <img src="https://zwanah.github.io/images/project0_1.png" width="200" />
   </div>
   <div style="margin-right: 10px;">
-    <img src="https://zwanah.github.io/images/project0_2.png" width="300" />
+    <img src="https://zwanah.github.io/images/project0_2.png" width="200" />
   </div>
   <div>
-    <img src="https://zwanah.github.io/images/project0_3.png" width="300" />
+    <img src="https://zwanah.github.io/images/project0_3.png" width="200" />
   </div>
 </div>
